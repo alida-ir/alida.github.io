@@ -1,0 +1,5 @@
+baseURL = "http://alida.ir"
+languageCode = "en-us"
+title = "AliDa Blog"
+theme = "ananke"
+publishDir = "docs"
