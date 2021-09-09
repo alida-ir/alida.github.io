@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blog-js",
+    "path": "/blog/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"144f51b8-57d3-5a31-ac45-8ab41cb9efcf","frontmatter":{"slug":"blog/welcome","title":"اولین پست وبلاگ من !","image":"http://Trainbit.com/files/2751771484/welcome.jpg","keywords":"blog","date":"2021-09-09"}}}]}},"pageContext":{}},
+    "staticQueryHashes": ["63159454"]}
