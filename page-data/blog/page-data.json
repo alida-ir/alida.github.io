@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-js",
     "path": "/blog/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"id":"144f51b8-57d3-5a31-ac45-8ab41cb9efcf","frontmatter":{"slug":"blog/welcome","title":"اولین پست وبلاگ من !","image":"http://Trainbit.com/files/2751771484/welcome.jpg","keywords":"blog","date":"2021-09-09"}}}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"id":"ae115c5c-6315-562c-a0f9-aef226ff278d","frontmatter":{"slug":"blog/international-programmers-day","title":"روز جهانی برنامه نویس ها","image":"https://dl.alida.ir/13-09-programmer.png","keywords":"روز جهانی برنامه نویس ها , روز برنامه نویس ها, International Programmer Day","date":"2021-09-13"}}},{"node":{"id":"144f51b8-57d3-5a31-ac45-8ab41cb9efcf","frontmatter":{"slug":"blog/welcome","title":"اولین پست وبلاگ من !","image":"https://dl.alida.ir/welcome.jpg","keywords":"blog","date":"2021-09-09"}}}]}},"pageContext":{}},
     "staticQueryHashes": ["63159454"]}
